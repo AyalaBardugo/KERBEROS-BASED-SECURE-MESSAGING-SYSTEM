@@ -10,7 +10,6 @@
 - [Architecture](#architecture)
 - [Security Features](#security-features)
 - [Implementation Details](#implementation-details)
-- [Project Structure](#project-structure)
 - [Installation & Usage](#installation--usage)
 - [Technical Documentation](#technical-documentation)
 - [Security Considerations](#security-considerations)
@@ -67,25 +66,6 @@ class SecurityProtocol:
 - SHA-256 password hashing
 - AES-256 encryption in CBC mode
 
-## 📦 Project Structure
-
-```plaintext
-project/
-├── server/
-│   ├── auth_server.py      # Authentication server implementation
-│   ├── message_server.py   # Message server implementation
-│   └── utils/
-│       ├── crypto.py       # Cryptographic operations
-│       └── protocol.py     # Protocol definitions
-├── client/
-│   ├── client_main.py     # Client application
-│   └── utils/
-│       ├── comm.py        # Communication handler
-│       └── security.py    # Security operations
-└── common/
-    ├── constants.py       # Shared constants
-    └── protocol_sizes.py  # Protocol specifications
-```
 
 ## 🚀 Installation & Usage
 
