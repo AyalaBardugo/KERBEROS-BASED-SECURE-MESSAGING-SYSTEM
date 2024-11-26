@@ -105,20 +105,13 @@ communication_handler.py
 
 ## 🚀 Installation & Usage
 
-1. System Requirements:
+- System Requirements:
 ```bash
 # Python 3.8+ or C++17
 pip install pycryptodome  # For Python implementation
 ```
 
-2. Configuration Files:
-```plaintext
-port.info    # Server port configuration
-msg.info     # Message server details
-me.info      # Client information
-```
-
-3. Running the System:
+- Running the System:
 ```bash
 # Start Authentication Server
 python auth_server.py
