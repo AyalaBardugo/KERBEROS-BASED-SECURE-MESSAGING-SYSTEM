@@ -1,0 +1,30 @@
+{
+    "402224561002459399f16f63230c9f25": {
+        "Client ID": "402224561002459399f16f63230c9f25",
+        "Server ID": "64f3f63985f04beb81a0e43321880182",
+        "Ticket IV": "61b0212110a4943b8d550605d4380766",
+        "AES key": "2dd772e18f871b76473e656ad8b1aa51e2ae998b8fa3dca30b6a3a588a05bcf2",
+        "Expiration time": "72d0456700000000"
+    },
+    "3b2702ad0b83487bae44093a69c945fa": {
+        "Client ID": "3b2702ad0b83487bae44093a69c945fa",
+        "Server ID": "64f3f63985f04beb81a0e43321880182",
+        "Ticket IV": "58dca2e0992d9238fcea6870fce0fe57",
+        "AES key": "a135947df9e27404a4150f50ba1ca0eaa784347d1516aedafbdc8d730c3ee600",
+        "Expiration time": "6cd8456700000000"
+    },
+    "2d346bc16e644ec1a1aac03513b53338": {
+        "Client ID": "2d346bc16e644ec1a1aac03513b53338",
+        "Server ID": "64f3f63985f04beb81a0e43321880182",
+        "Ticket IV": "7a300427e69d3286ff64754755185350",
+        "AES key": "b6f598e2ff4ff97e35eab1a2043666044c86061d8c0b84cbabb839aa68f3e7b0",
+        "Expiration time": "c0da456700000000"
+    },
+    "37807d179bd04f0898e0f777dc2d2d6f": {
+        "Client ID": "37807d179bd04f0898e0f777dc2d2d6f",
+        "Server ID": "64f3f63985f04beb81a0e43321880182",
+        "Ticket IV": "822cef0d68ac1d250717792fe5842610",
+        "AES key": "eb0796564622ae2f65d5b9e4f3178cbcca1b4b0b2bafb435219a7c3e4be3944e",
+        "Expiration time": "1bdb456700000000"
+    }
+}
