@@ -18,14 +18,12 @@
 
 This project implements a secure messaging system based on the Kerberos authentication protocol. It features a complete client-server architecture with encryption, authentication, and secure message transmission capabilities.
 ### Key Features
-
-- 🔒 End-to-end encryption using AES-CBC
-- 🔑 Secure key exchange protocol
-- 👤 User authentication and registration
-- 📡 Distributed server architecture
-- 🛡️ Protection against various security threats
-- 📝 Comprehensive logging and monitoring
-- 🔄 Automatic session management
+- ✅ Kerberos-based authentication system
+- 🔒 AES-CBC encryption for secure communication
+- 🎯 Multi-threaded server architecture
+- 📝 Persistent client registration
+- 🔑 Secure key distribution
+- 📋 Message encryption and delivery confirmation
 
 ## 🏗️ System Architecture
 
