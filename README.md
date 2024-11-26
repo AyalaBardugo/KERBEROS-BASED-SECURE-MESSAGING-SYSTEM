@@ -1,5 +1,5 @@
 
-# 🔐 KERBEROS-BASED-SECURE-MESSAGING-SYSTEM
+# 🔐 KERBEROS BASED SECURE MESSAGING SYSTEM
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
@@ -16,8 +16,7 @@
 
 ## 🌟 Overview
 
-This project implements a secure, enterprise-grade messaging system featuring end-to-end encryption, authentication servers, and message relay capabilities. Built with Python, it demonstrates advanced security practices, robust error handling, and scalable architecture design.
-
+This project implements a secure messaging system based on the Kerberos authentication protocol. It features a complete client-server architecture with encryption, authentication, and secure message transmission capabilities.
 ### Key Features
 
 - 🔒 End-to-end encryption using AES-CBC
