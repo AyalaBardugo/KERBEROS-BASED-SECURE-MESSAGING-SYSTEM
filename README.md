@@ -103,39 +103,30 @@ communication_handler.py
 └── Error handling
 ```
 
-## 📥 Installation
+## 🚀 Installation & Usage
 
-1. Clone the repository:
+1. System Requirements:
 ```bash
-git clone https://github.com/yourusername/secure-messaging-system.git
-cd secure-messaging-system
+# Python 3.8+ or C++17
+pip install pycryptodome  # For Python implementation
 ```
 
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
+2. Configuration Files:
+```plaintext
+port.info    # Server port configuration
+msg.info     # Message server details
+me.info      # Client information
 ```
 
-3. Configure server settings:
+3. Running the System:
 ```bash
-cp config.example.json config.json
-# Edit config.json with your settings
-```
+# Start Authentication Server
+python auth_server.py
 
-## 🚀 Usage
+# Start Message Server
+python message_server.py
 
-1. Start the authentication server:
-```bash
-python server_main.py
-```
-
-2. Start the message server:
-```bash
-python message_server_main.py
-```
-
-3. Run the client application:
-```bash
+# Run Client
 python client_main.py
 ```
 
