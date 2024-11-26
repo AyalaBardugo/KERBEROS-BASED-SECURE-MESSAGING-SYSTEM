@@ -122,30 +122,3 @@ python message_server.py
 # Run Client
 python client_main.py
 ```
-
-## 🔍 Technical Details
-
-### Protocol Specification
-
-The system implements a custom secure messaging protocol with the following features:
-
-#### Message Format
-```
-+-----------------+----------------+------------------+
-| Header (23 bytes)| Payload Size   | Encrypted Payload|
-+-----------------+----------------+------------------+
-```
-
-#### Authentication Flow
-1. Client registration request
-2. Server verification
-3. Symmetric key exchange
-4. Session ticket generation
-5. Secure channel establishment
-
-### Performance Considerations
-
-- Asynchronous message handling
-- Efficient memory usage
-- Connection pooling
-- Optimized encryption operations
